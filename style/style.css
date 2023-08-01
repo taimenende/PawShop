@@ -1,0 +1,56 @@
+
+#pagina{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#banner{
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 720px;
+}
+#middleBanner{
+    display: flex;
+    height: 415px;
+}
+.middleDogs{
+    width: 25%; 
+}
+#about{
+    height: 610px;
+    display: flex;
+}
+#textAbout{
+    width: 50%;
+}
+#imageAbout{
+    width: 50%;
+    background-image: url(../images/food2.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+#fun{
+    height: 610px;
+    display: flex;
+}
+#imageFun{
+    width: 50%;
+    background-image: url(../images/toy1.jpg);
+    background-size: cover;
+    background-position:center;
+}
+#textFun{
+    width: 50%;
+}
+#contact{
+    height: 610px;
+    display: flex;
+}
+#textContact{
+    width: 50%;
+}
+#imageContact{
+    width: 50%;
+    background-image: url(../images/thanks.jpg);
+    background-size: cover;
+    background-position: center;
+}
